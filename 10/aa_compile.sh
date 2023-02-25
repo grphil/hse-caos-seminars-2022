@@ -1,0 +1,1 @@
+gcc aa.c -shared -fPIC -o aa
